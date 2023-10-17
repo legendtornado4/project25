@@ -1,0 +1,32 @@
+name: project25
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  get_storage: 2.1.1
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.4
+  path_provider: ^2.0.8
+
+dev_dependencies:
+  flutter_lints: 2.0.3
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/mm2.png
+    - assets/gym.png
+    - assets/yoga.png
+    - assets/course2.jpg
+    -
+    -
+    -
